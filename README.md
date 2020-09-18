@@ -15,7 +15,7 @@ This can be used to download protected online books, it screenshots every page t
 11. run '$ python slice.py' to slice the tall images into smaller ones and create a textfile for tesseract. (besure to calculate the correct sliceHeight with a4 aspect ratio)
 12. install tesseract.
 13. run the following command to recognise the text in the image and merge everything into one pdf file. '$ tesseract imageList.txt book PDF'
-
+14. Enjoy your book saved as 'book.pdf' :)
 
 
 
